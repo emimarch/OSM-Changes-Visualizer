@@ -1,7 +1,7 @@
 This is an OSM network changes visualizer as a Dash webapp. 
 To run the visualization: 
 1) Download the osm history file, for example from Geofabrik, for the available countries. Put these files into a /data folder
-2) Create a /yearly folder
+2) Create a /yearly folder and a /output_hist folder
 3) Run the test_app.py. You can access the visualization by clicking on the local link that appears on the terminal
 
 To interact with the visualization, you can refer to the videos in the video folder of this repository. 
